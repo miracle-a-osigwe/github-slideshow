@@ -6,6 +6,6 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+** Today is a good day to learn and have fun **
 
 Use the left arrow to go back!
